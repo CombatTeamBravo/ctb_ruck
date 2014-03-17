@@ -10,3 +10,5 @@ Changelog:
 <li>inherits kitbag storage</li>
 <li>changed classnames to B_Kitbag_O_CTB and B_KitBag_E_CTB</li>
 </ul>
+
+<a href="http://imgur.com/rNHaVe0"><img src="http://i.imgur.com/rNHaVe0.png" title="Hosted by imgur.com" /></a>
